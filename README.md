@@ -19,11 +19,16 @@
 ### Languages:
 - HTML5 & CSS3
 - JavaScript
+- TypeScript
 - C++
 
-### Technologies & Frameworks:
+### Technologies, Frameworks & Libraries:
 - React.js
 - Styled-Components
+- Tailwind CSS
+- Framer-Motion
+- AnimeJS
+- GSAP
 
 ### Tools & Platforms:
 - Git & GitHub
@@ -34,7 +39,7 @@
 
 ### Operating Systems:
 - Windows 10, 11 and above
-- Linux
+- Linux Distributions (Ubuntu based distributions, Fedora, Arch Linux)
 
 ---
 
