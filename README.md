@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Reginald Sahil Chand!
 
 ## About Me
-👀 I’m interested in full-stack web applications development, website development, frontend development, and C++.
-
-🌱 I’m currently learning JavaScript and React.JS through a hands-on, learn-by-doing approach.
+👀 I’m interested in frontend web applications development, website development, frontend development, and C++.
 
 😄 Pronouns: He/She Him/Her
 
