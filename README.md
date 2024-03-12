@@ -34,6 +34,8 @@
 - Microsoft's Visual Studio 2022
 - JetBrain's Webstorm IDE
 - JetBrain's CLion IDE
+- Figma Software
+- Adobe XD
 
 ### Operating Systems:
 - Windows 10, 11 and above
