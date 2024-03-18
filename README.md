@@ -3,7 +3,7 @@
 ## About Me
 👀 I’m interested in frontend web applications development, website development, frontend development, and C++.
 
-😄 Pronouns: He/She/They
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love coding, and every day I strive to make my projects match industry standards and of quality.
 
